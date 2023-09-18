@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    background-color: bisque;
+}
+
+
+
+button:hover {
+    border: 2px solid greenyellow;
+    cursor: pointer;
+}
